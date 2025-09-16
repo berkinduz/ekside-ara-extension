@@ -1,9 +1,5 @@
 # Ekşi Sözlük Arama Chrome Extension
 
-## Ekran Görüntüsü
-
-> Buraya uzantının ekran görüntüsünü ekleyin.  
-
 ![Extension Screenshot](https://lh3.googleusercontent.com/AhuTuMyb8tW58aKxdEOAU36nevibqeSrXAMa8WeWIe1knDfFjANwEmcG_nNWO1YpNPil3kwOXTAUPtkEuarEcbY_0fk=s1280-w1280-h800)
 
 ---
