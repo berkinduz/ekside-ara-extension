@@ -5,7 +5,6 @@
 ---
 
 Bu Chrome uzantısı sayesinde webde gezinirken gördüğünüz herhangi bir kelimeyi veya ifadeyi sağ tıklayarak **Ekşi Sözlük’te** hızlıca arayabilirsiniz.  
-Zaman kaybetmeden, tek tıkla sonuçlara ulaşın! 🚀
 
 ---
 
